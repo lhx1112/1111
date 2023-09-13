@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JSP:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5686fe9b-ab41-409b-a695-26b3c84530a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="20211710113李泽伟 大作业" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\web_jars\Repository" />
+        <option name="mavenHome" value="E:/web_jars/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\web_jars\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="20khB7SEbQsmMuWTCbmI4GTurJg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="chap09.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\大三上\web\登陆界面\web\images\background" />
+      <recent name="C:\Users\Administrator\Desktop\大三上\web\登陆界面\web" />
+      <recent name="C:\Users\Administrator\Desktop\大三上\web\登陆界面\web\images" />
+      <recent name="C:\Users\Administrator\Desktop\大三上\web\登陆界面\src\chap09\servlet" />
+      <recent name="C:\Users\Administrator\Desktop\大三上\web\登陆界面\web\css" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chap09.servlet" />
+      <recent name="com.jsp.servlet" />
+      <recent name="com.jsp" />
+      <recent name="chap09" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\大三上\web\登陆界面\src\chap09\filter" />
+      <recent name="C:\Users\Administrator\Desktop\大三上\web\登陆界面\web\images" />
+      <recent name="C:\Users\Administrator\Desktop\大三上\web\登陆界面\web" />
+      <recent name="C:\Users\Administrator\Desktop\大三上\web\登陆界面\web\file" />
+      <recent name="C:\Users\Administrator\Desktop\大三上\web\登陆界面\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.34">
+    <configuration name="JDBCBatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap09.JDBCBatch" />
+      <module name="JSP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap09.JDBCDemo1" />
+      <module name="JSP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:80/JSP_war_exploded/1.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="sendemail.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:80/JSP_war_exploded/sendemail.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.5.34" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:80/" />
+      <deployment>
+        <artifact name="JSP:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_34_JSP" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="11713" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JSP:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="communicate.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:80/communicate.jsp" />
+      <deployment>
+        <artifact name="JSP:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JSP_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="communicate_jsp_登陆界面" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JSP:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JDBCBatch" />
+      <item itemvalue="Application.JDBCDemo1" />
+      <item itemvalue="JavaScript Debug.1.jsp" />
+      <item itemvalue="JavaScript Debug.sendemail.jsp" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.34" />
+      <item itemvalue="Tomcat Server.communicate.jsp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.communicate.jsp" />
+        <item itemvalue="JavaScript Debug.1.jsp" />
+        <item itemvalue="JavaScript Debug.sendemail.jsp" />
+        <item itemvalue="Application.JDBCDemo1" />
+        <item itemvalue="Application.JDBCBatch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.1762295" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5686fe9b-ab41-409b-a695-26b3c84530a1" name="Default Changelist" comment="" />
+      <created>1636594354514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636594354514</updated>
+      <workItem from="1636594357613" duration="10185000" />
+      <workItem from="1668595152574" duration="5740000" />
+      <workItem from="1668602072463" duration="10743000" />
+      <workItem from="1669096070169" duration="802000" />
+      <workItem from="1669188448181" duration="1639000" />
+      <workItem from="1669555145907" duration="2287000" />
+      <workItem from="1669818911045" duration="73000" />
+      <workItem from="1670423633441" duration="40752000" />
+      <workItem from="1670507862860" duration="1792000" />
+      <workItem from="1670543590648" duration="6060000" />
+      <workItem from="1670550442467" duration="11129000" />
+      <workItem from="1670562225677" duration="4015000" />
+      <workItem from="1670843930428" duration="451000" />
+      <workItem from="1670844393979" duration="3442000" />
+      <workItem from="1670901539986" duration="18245000" />
+      <workItem from="1671070678142" duration="1653000" />
+      <workItem from="1671073328389" duration="603000" />
+      <workItem from="1671074371919" duration="2281000" />
+      <workItem from="1671076676757" duration="3876000" />
+      <workItem from="1671081097080" duration="8731000" />
+      <workItem from="1671143506762" duration="5971000" />
+      <workItem from="1671248311644" duration="20000" />
+      <workItem from="1671250698900" duration="4142000" />
+      <workItem from="1671263130371" duration="1574000" />
+      <workItem from="1671336174689" duration="34498000" />
+      <workItem from="1671410834012" duration="11318000" />
+      <workItem from="1671432781425" duration="17741000" />
+      <workItem from="1671495811001" duration="2624000" />
+      <workItem from="1671498670237" duration="28406000" />
+      <workItem from="1671537941900" duration="16696000" />
+      <workItem from="1671583113248" duration="28989000" />
+      <workItem from="1671635758515" duration="1827000" />
+      <workItem from="1671637715195" duration="908000" />
+      <workItem from="1671638636963" duration="1226000" />
+      <workItem from="1671668874920" duration="41231000" />
+      <workItem from="1671716864407" duration="5263000" />
+      <workItem from="1671754393924" duration="1847000" />
+      <workItem from="1671765060432" duration="866000" />
+      <workItem from="1671772648010" duration="5000" />
+      <workItem from="1671793164113" duration="2074000" />
+      <workItem from="1671894796400" duration="7561000" />
+      <workItem from="1671930384613" duration="2161000" />
+      <workItem from="1672314756292" duration="9380000" />
+      <workItem from="1672477339894" duration="6321000" />
+      <workItem from="1673018118510" duration="6000" />
+      <workItem from="1675231717820" duration="34000" />
+      <workItem from="1675250976660" duration="1179000" />
+      <workItem from="1675650903620" duration="42000" />
+      <workItem from="1675651359934" duration="3380000" />
+      <workItem from="1675657186568" duration="3761000" />
+      <workItem from="1675701923953" duration="2859000" />
+      <workItem from="1675737281757" duration="16000" />
+      <workItem from="1675746412184" duration="5305000" />
+      <workItem from="1675776271908" duration="1779000" />
+      <workItem from="1675831116388" duration="9505000" />
+      <workItem from="1675879600231" duration="411000" />
+      <workItem from="1675916382967" duration="16830000" />
+      <workItem from="1675938354614" duration="6281000" />
+      <workItem from="1676005563400" duration="1552000" />
+      <workItem from="1694572735651" duration="3322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="725" y="8" key="CommitChangelistDialog2" timestamp="1694573034370">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="725" y="8" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1694573034370" />
+    <state x="807" y="164" key="FileChooserDialogImpl" timestamp="1694573725773">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="807" y="164" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1694573725773" />
+    <state x="880" y="311" key="Github.ShareDialog" timestamp="1694585227146">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="880" y="311" key="Github.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1694585227146" />
+    <state x="532" y="122" key="Github.UntrackedFilesDialog" timestamp="1694585302660">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="532" y="122" key="Github.UntrackedFilesDialog/0.0.1536.816@0.0.1536.816" timestamp="1694585302660" />
+    <state x="540" y="64" width="996" height="707" key="SettingsEditor" timestamp="1694584941206">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="540" y="64" width="996" height="707" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1694584941206" />
+    <state x="833" y="32" key="com.intellij.ide.util.TipDialog" timestamp="1694585433687">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="833" y="32" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1694585433687" />
+    <state x="915" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1694573049707">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="915" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1694573049707" />
+    <state x="809" y="203" key="git4idea.merge.GitPullDialog" timestamp="1694573716013">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="809" y="203" key="git4idea.merge.GitPullDialog/0.0.1536.816@0.0.1536.816" timestamp="1694573716013" />
+  </component>
+</project>
